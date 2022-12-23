@@ -1,3 +1,9 @@
+/*
+ * struct_binder: https://github.com/MurakamiShun/struct_binder
+ * Copyright (c) 2022 MurakamiShun
+ *
+ * Released under the MIT License.
+ */
 #pragma once
 #include <type_traits>
 #include <tuple>
