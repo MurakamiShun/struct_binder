@@ -19,3 +19,6 @@ int main(){
     std::cout << d.a << std::endl;
 }
 ```
+
+# License
+This software is released under the MIT License, see [LICENSE](LICENSE).
